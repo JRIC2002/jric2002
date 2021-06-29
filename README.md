@@ -1,6 +1,7 @@
 # José Rodolfo
 ![Twitter Follow](https://img.shields.io/twitter/follow/jric2002?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jric2002?label=Jos%C3%A9%20Rodolfo&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGOV6aZjiyo-NoyZaeYIA5Q?style=social)
 <!-- ![Avatar](https://raw.githubusercontent.com/jric2002/jric2002/master/Avatars/Space.jpg) -->
 <img src="https://raw.githubusercontent.com/jric2002/jric2002/master/Avatars/Space.jpg" width="250px" alt="Avatar"/>
 
