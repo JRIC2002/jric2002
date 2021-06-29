@@ -1,18 +1,22 @@
 # José Rodolfo
-![Avatar](https://raw.githubusercontent.com/jric2002/jric2002/master/Space.jpg)
+![Twitter Follow](https://img.shields.io/twitter/follow/jric2002?style=social)
+![GitHub followers](https://img.shields.io/github/followers/jric2002?label=Jos%C3%A9%20Rodolfo&style=social)
+<!-- ![Avatar](https://raw.githubusercontent.com/jric2002/jric2002/master/Avatars/Space.jpg) -->
+<img src="https://raw.githubusercontent.com/jric2002/jric2002/master/Avatars/Space.jpg" width="250px" alt="Avatar"/>
 
 Hola 👋, mi nombre es José Rodolfo  
 soy estudiante de Ingeniería de Sistemas.  
 Mis lenguajes de programación favoritos son  
-💻 Bash | JavaScript | Python 📡
+💻 Bash | JavaScript | Python 📡  
+🔥 Student 💚🚀
 
 ## Redes sociales
-* Twitter: [José Rodolfo](https://twitter.com/jric2002)
-* YouTube: [José Rodolfo](https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q)
-* Telegram: [José Rodolfo](https://t.me/jric2002)
-* GitHub: [José Rodolfo](https://github.com/jric2002)
-* GitLab: [José Rodolfo](https://gitlab.com/jric2002)
-* LinkedIn: [José Rodolfo](https://pe.linkedin.com/in/jric2002)
+* 🐦 Twitter: https://twitter.com/jric2002
+* 🎬 YouTube: https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q
+* 🚀 Telegram: https://t.me/jric2002
+* 💻 GitHub: https://github.com/jric2002
+* 💻 GitLab: https://gitlab.com/jric2002
+* 💻 LinkedIn: https://pe.linkedin.com/in/jric2002
 
 <!--
 **jric2002/jric2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
