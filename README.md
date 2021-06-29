@@ -6,7 +6,7 @@
 
 Hola 👋, mi nombre es José Rodolfo  
 soy estudiante de Ingeniería de Sistemas.  
-Mis lenguajes favoritos son 
+Mis lenguajes favoritos son  
 💻 Bash | JavaScript | Python 📡  
 🔥 Student 💚🚀
 
