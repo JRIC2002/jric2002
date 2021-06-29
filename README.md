@@ -1,4 +1,9 @@
-### Hi there 👋
+# José Rodolfo
+![Avatar]()
+Hola 👋, mi nombre es José Rodolfo  
+soy estudiante de Ingeniería de Sistemas.  
+Mis lenguajes de programación favoritos son  
+
 
 <!--
 **jric2002/jric2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
