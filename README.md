@@ -5,7 +5,8 @@
 <!-- ![Avatar](https://raw.githubusercontent.com/jric2002/jric2002/master/Avatars/Space.jpg) -->
 <img src="https://raw.githubusercontent.com/jric2002/jric2002/master/Avatars/Space.jpg" width="250px" alt="Avatar"/>
 
-Hola 👋, mi nombre es José Rodolfo soy estudiante de Ingeniería de Sistemas.  
+Hola 👋, mi nombre es José Rodolfo  
+soy estudiante de Ingeniería de Sistemas.  
 Mis lenguajes favoritos son  
 💻 Bash | JavaScript | Python 📡  
 🔥 Student 💚🚀
