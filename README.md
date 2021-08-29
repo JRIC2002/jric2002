@@ -6,7 +6,6 @@
 <img src="https://raw.githubusercontent.com/jric2002/jric2002/master/Avatars/Wall-E.jpg" width="250px" alt="Wall-E"/>
 
 Hola 👋, mi nombre es José Rodolfo  
-soy estudiante de Ingeniería de Sistemas.  
 Mis lenguajes favoritos son  
 💻 Bash | JavaScript | Python 📡  
 🔥 Student 💚🚀
@@ -14,10 +13,10 @@ Mis lenguajes favoritos son
 ## Redes sociales
 * 🐦 Twitter: https://twitter.com/jric2002
 * 🎬 YouTube: https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q
-* 🚀 Telegram: https://t.me/jric2002
+<!-- * 🚀 Telegram: https://t.me/jric2002 -->
 * 💻 GitHub: https://github.com/jric2002
-* 💻 GitLab: https://gitlab.com/jric2002
-* 💻 LinkedIn: https://pe.linkedin.com/in/jric2002
+<!-- * 💻 GitLab: https://gitlab.com/jric2002
+* 💻 LinkedIn: https://pe.linkedin.com/in/jric2002 -->
 
 <!--
 **jric2002/jric2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
