@@ -13,8 +13,8 @@ Mis lenguajes favoritos son
 ## Redes sociales
 * 🐦 Twitter: https://twitter.com/jric2002
 * 🎬 YouTube: https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q
-<!-- * 🚀 Telegram: https://t.me/jric2002 -->
 * 💻 GitHub: https://github.com/jric2002
+<!-- * 🚀 Telegram: https://t.me/jric2002 -->
 <!-- * 💻 GitLab: https://gitlab.com/jric2002
 * 💻 LinkedIn: https://pe.linkedin.com/in/jric2002 -->
 
