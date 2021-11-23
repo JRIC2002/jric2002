@@ -7,8 +7,8 @@
 
 Hola 👋, mi nombre es José Rodolfo  
 Mis lenguajes favoritos son  
-💻 Bash | JavaScript | Python 📡  
-🔥 Student 💚🚀
+💻Bash | JavaScript | Python📡  
+🔥Matecito con café💚🚀
 
 ## Redes sociales
 * 🐦 Twitter: https://twitter.com/jric2002
