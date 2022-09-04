@@ -7,7 +7,7 @@
 
 Hola 👋, mi nombre es José Rodolfo  
 Mis lenguajes favoritos son  
-💻Bash | JavaScript | Python📡  
+💻C++ | JavaScript | Bash📡  
 🔥Matecito con café💚🚀
 
 ## Redes sociales
