@@ -1,17 +1,17 @@
 # José Rodolfo
-[![Twitter Follow](https://img.shields.io/twitter/follow/jric2002?style=social)](https://twitter.com/jric2002)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/jric2002?style=social)](https://twitter.com/jric2002) -->
 [![GitHub followers](https://img.shields.io/github/followers/jric2002?label=Jos%C3%A9%20Rodolfo&style=social)](https://github.com/jric2002)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGOV6aZjiyo-NoyZaeYIA5Q?style=social)](https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q)
 <!-- ![Avatar](./Avatars/Space.jpg) -->
-<img src="./Avatars/cybersecurity.png" width="250px" alt="Wall-E"/>
+<img src="./Avatars/cybersecurity.png" width="250px" alt="Cybersecurity"/>
 
 Hola 👋, mi nombre es José Rodolfo  
-Mis lenguajes favoritos son  
 💻C++ | JavaScript | Bash📡  
-🔥Matecito con café💚🚀
+🎧Listen to music💚🚀
 
 ## Redes sociales
-* 🐦 Twitter: https://twitter.com/jric2002
+<!-- * 🐦 Twitter: https://twitter.com/jric2002 -->
+* 🎧 Spotify: https://open.spotify.com/user/31ztt5gr7h3hvstiucavl353az6y
 * 🎬 YouTube: https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q
 * 💻 GitHub: https://github.com/jric2002
 <!-- * 🚀 Telegram: https://t.me/jric2002 -->
