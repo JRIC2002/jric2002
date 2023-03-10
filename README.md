@@ -5,7 +5,7 @@
 <!-- ![Avatar](./Avatars/Space.jpg) -->
 <img src="./Avatars/cybersecurity.png" width="250px" alt="Cybersecurity"/>
 
-Hola 👋, mi nombre es José Rodolfo  
+Hola 👋, mi nombre es José Rodolfo.  
 💻C++ | JavaScript | Bash📡  
 🎧Listen to music💚🚀
 
