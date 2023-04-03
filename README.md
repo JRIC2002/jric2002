@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/jric2002?label=Jos%C3%A9%20Rodolfo&style=social)](https://github.com/jric2002)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGOV6aZjiyo-NoyZaeYIA5Q?style=social)](https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q)
 <!-- ![Avatar](./Avatars/Space.jpg) -->
-<img src="./Avatars/cybersecurity.png" width="250px" alt="Cybersecurity"/>
+<img src="./avatars/paddington-1-512x512" width="256px" alt="Paddington"/>
 
 Hola 👋, mi nombre es José Rodolfo.  
 💻C++ | JavaScript | Bash📡  
