@@ -5,8 +5,8 @@
 <!-- ![Avatar](./Avatars/Space.jpg) -->
 <img src="./Avatars/dark-kermit-muppets-1080x1080.png" width="256px" alt="Dark Kermit"/>
 
-Hola 👋, mi nombre es José Rodolfo.  
-💻C++ | JavaScript | Bash📡  
+<!-- Hola 👋, mi nombre es José Rodolfo.  
+💻C++ | JavaScript | Bash📡   -->
 🎧Listen to music💚🚀
 
 ## Redes sociales
