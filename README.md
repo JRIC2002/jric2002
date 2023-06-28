@@ -1,19 +1,19 @@
-# José Rodolfo
+<!-- # José Rodolfo -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/jric2002?style=social)](https://twitter.com/jric2002) -->
-[![GitHub followers](https://img.shields.io/github/followers/jric2002?label=Jos%C3%A9%20Rodolfo&style=social)](https://github.com/jric2002)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGOV6aZjiyo-NoyZaeYIA5Q?style=social)](https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/jric2002?label=Jos%C3%A9%20Rodolfo&style=social)](https://github.com/jric2002) -->
+<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGOV6aZjiyo-NoyZaeYIA5Q?style=social)](https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q) -->
 <!-- ![Avatar](./Avatars/Space.jpg) -->
-<img src="./Avatars/dark-kermit-muppets-1080x1080.png" width="256px" alt="Dark Kermit"/>
+<!-- <img src="./Avatars/dark-kermit-muppets-1080x1080.png" width="256px" alt="Dark Kermit"/> -->
 
 <!-- Hola 👋, mi nombre es José Rodolfo.  
 💻C++ | JavaScript | Bash📡   -->
-🎧Listen to music💚🚀
+<!-- 🎧Listen to music💚🚀 -->
 
-## Redes sociales
+<!-- ## Redes sociales -->
 <!-- * 🐦 Twitter: https://twitter.com/jric2002 -->
-* 🎧 Spotify: https://open.spotify.com/user/31ztt5gr7h3hvstiucavl353az6y
-* 🎬 YouTube: https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q
-* 💻 GitHub: https://github.com/jric2002
+<!-- * 🎧 Spotify: https://open.spotify.com/user/31ztt5gr7h3hvstiucavl353az6y -->
+<!-- * 🎬 YouTube: https://www.youtube.com/channel/UCGOV6aZjiyo-NoyZaeYIA5Q -->
+<!-- * 💻 GitHub: https://github.com/jric2002 -->
 <!-- * 🚀 Telegram: https://t.me/jric2002 -->
 <!-- * 💻 GitLab: https://gitlab.com/jric2002
 * 💻 LinkedIn: https://pe.linkedin.com/in/jric2002 -->
